@@ -5,7 +5,6 @@ import java.util.*;
 public abstract class Individual extends CellContent{
 	
 	public Individual(String name) {
-		//super();
 		this.name = name;
                 this.bag = new ArrayList();
                 

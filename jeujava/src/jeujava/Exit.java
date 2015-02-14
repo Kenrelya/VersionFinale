@@ -1,9 +1,5 @@
 package jeujava;
 
-/**
- *
- * @author Kenrelya
- */
 public class Exit extends CellContent{
     
     @Override
